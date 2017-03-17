@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 Since [Kitsu](https://kitsu.io) no longer has a list of official applications, I decide to do it myself inspired by [this](https://github.com/erengy/taiga/wiki/Third-party-applications-for-MyAnimeList). This list includes Hummingbird.me apps as well for historical purposes. Feel free to contribute by [forking this repository](https://github.com/Atelier-Shiori/Kitsu-Client-Comparison) and creating a pull request.
 
