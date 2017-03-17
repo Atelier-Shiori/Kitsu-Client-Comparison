@@ -22,6 +22,7 @@ Name | Status | Developer | Open source | Platform | Kitsu Support
 [Imprint](https://kitsu.io/groups/imprint) | Active | [Tempest](https://kitsu.io/users/Tempest) | No | Android | Yes
 [Anizen](https://forums.hummingbird.me/t/ios-anizen/30040/43) | Stalled *(since 2016-10-07)* | [wraithseeker](https://kitsu.io/users/wraithseeker) | No | iOS | No
 [That Li'l Hummingbird](https://forums.hummingbird.me/t/android-that-lil-hummingbird/32917) | Stalled *(since 2017-01-10)* | [ThatLilChestnut](https://kitsu.io/users/ThatLilChestnut) | [Yes](https://github.com/charlesmadere/that-lil-hummingbird) (Unlicensed) | Android | No
+
 ### Web Tools
 
 Name | Status | Developer | Open source | Language | Kitsu Support
