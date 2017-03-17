@@ -10,6 +10,7 @@ Name | Status | Developer | Open source | Platform | Kitsu Support
 [Hachidori](https://kitsu.io/groups/hachidori) | Active | [Atelier Shiori](http://hachidori.ateliershiori.moe) | [Yes](https://github.com/Atelier-Shiori/hachidori) (BSD) | Mac | Yes
 [Taiga](https://kitsu.io/groups/taiga) | Active | [erengy](https://kitsu.io/users/erengy) | [Yes](https://github.com/erengy/taiga) (GPLv3) | Windows | Yes
 [Trackma](https://forums.hummingbird.me/t/linux-trackma/19212) | Active | [z411](https://kitsu.io/users/z411) | [Yes](https://github.com/z411/trackma) (GPLv3) | *nix | Yes
+[kitsu-updater](https://github.com/matthewdias/kitsu-updater) | Active | [matthewdias](https://kitsu.io/users/matthewdias) | Yes (MIT) | Chrome | Yes
 [HAPU](https://forums.hummingbird.me/t/mac-hapu-scrobbler-app/56) | Stalled *(since 2015-05-09)* | [inket](https://kitsu.io/users/inket) | No | Mac | No
 [Zenbu](https://forums.hummingbird.me/t/zenbu-development-log-deprecated/1583) | Stalled *(since 2014-08-01)* | [Ippytraxx](https://kitsu.io/users/Ippytraxx) | [Yes](https://bitbucket.org/Ippytraxx/zenbu/) (GPLV3) | Linux, Windows | No
 [Hummingbird Updater/Scrobbler](https://forums.hummingbird.me/t/windows-hummingbird-updater-scrobbler-by-dennis/17333) | Stalled *(since 2015-04-28)* | [Dennis](https://kitsu.io/users/Dennis) | [Yes](https://github.com/tofuness/Hummingbird-Updater) (MIT) | Linux, Windows | No
