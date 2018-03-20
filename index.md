@@ -7,7 +7,8 @@ Since [Kitsu](https://kitsu.io) no longer has a list of official applications, I
 
 Name | Status | Developer | Open source | Platform | Kitsu Support
 -----|--------|-----------|-------------|----------|--------------
-[Hachidori](https://kitsu.io/groups/hachidori) | Active | [Atelier Shiori](http://hachidori.ateliershiori.moe) | [Yes](https://github.com/Atelier-Shiori/hachidori) (BSD) | Mac | Yes
+[Hachidori](https://kitsu.io/groups/hachidori) | Active | [Atelier Shiori](http://malupdaterosx.moe/hachidori) | [Yes](https://github.com/Atelier-Shiori/hachidori) (BSD) | Mac | Yes
+[MAL Library](https://kitsu.io/groups/hachidori) | Active | [Atelier Shiori](http://malupdaterosx.moe/mallibrary) | [Yes](https://github.com/Atelier-Shiori/MAL-Library) (BSD) | Mac | Yes
 [Taiga](https://kitsu.io/groups/taiga) | Active | [erengy](https://kitsu.io/users/erengy) | [Yes](https://github.com/erengy/taiga) (GPLv3) | Windows | Yes
 [Trackma](https://forums.hummingbird.me/t/linux-trackma/19212) | Active | [z411](https://kitsu.io/users/z411) | [Yes](https://github.com/z411/trackma) (GPLv3) | *nix | Yes
 [Kitsu Scrobbler](leonekmi.twittolabel.fr/anilist-scrobble/) | Active | [leonekmi](https://kitsu.io/users/leonekmi) | [Yes](https://github.com/leonekmi/anilist-scrobbler) (CC-BY-SA-4.0) | Chrome | Yes
@@ -33,5 +34,5 @@ Name | Status | Developer | Open source | Language | Kitsu Support
 -----|--------|-----------|-------------|----------|--------------
 [Hibari](https://kitsu.io/groups/hibari-hummingbird-tools) | Active | [wopian](https://kitsu.io/users/wopian) | [Yes](https://github.com/Wopian/hibari) (MIT) | Vue | Yes
 [Hummingbird Anime Client](https://git.timshomepage.net/timw4mail/HummingBirdAnimeClient)| Active | [timw4mail](https://kitsu.io/users/timw4mail) | [Yes](https://git.timshomepage.net/timw4mail/HummingBirdAnimeClient/tree/develop) (MIT) | PHP | Yes
-[Tanuki](hhttp://tanuki.surge.sh/)| Active | [Wilus](https://kitsu.io/users/Wilus) | [Yes](https://github.com/tanukiapp/tanuki) (GPLv3) | Node.js | Yes
+[Tanuki](http://tanuki.surge.sh/)| Active | [Wilus](https://kitsu.io/users/Wilus) | [Yes](https://github.com/tanukiapp/tanuki) (GPLv3) | Node.js | Yes
 
