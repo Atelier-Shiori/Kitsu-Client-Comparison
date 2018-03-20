@@ -16,7 +16,7 @@
 title: Third Party Kitsu Client Comparison
 description: > # Comparison of Kitsu Third Party Clients
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://atelier-shiori.github.io/Kitsu-Client-Comparison/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Atelier-Shiori
 
 # Build settings
