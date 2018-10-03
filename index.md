@@ -24,6 +24,7 @@ Name | Status | Developer | Open source | Platform | Kitsu Support
 [Kitsu: Anime & Manga Tracker](http://aozoraapp.com) | Active | [Kitsu](https://medium.com/heykitsu/kitsu-acquires-aozora-43445aa66efb) | [Yes](https://github.com/hummingbird-me/kitsu-mobile) (Apache-2.0) | iOS/Android | Yes
 [Imprint](https://kitsu.io/groups/imprint) | Active | [Tempest](https://kitsu.io/users/Tempest) | No | Android | Yes
 [Kamuy](https://cyberneticlifeform.wixsite.com/cylonu87/kamuy)| Active | [cylon_u87](https://kitsu.io/users/cylon_u87) | No | Android | Yes
+[Shukofukurou for iOS](https://malupdaterosx.moe/shukofukurou-for-ios/) | Active | [MAL Updater OS X Group](https://malupdaterosx.moe/shukofukurou-for-ios/) |  [Yes](https://github.com/Atelier-Shiori/Shukofukurou-iOS) (BSD) | iOS | Yes
 [Ookami](https://kitsu.io/groups/ookami-app) | Stalled *(since 2017-03-07)* | [Jigglyslime](https://kitsu.io/users/Jigglyslime) | [Yes](https://github.com/Mikunj/Ookami) (MIT) | iOS | Yes
 [That Li'l Hummingbird](https://forums.hummingbird.me/t/android-that-lil-hummingbird/32917) | Stalled *(since 2017-01-10)* | [ThatLilChestnut](https://kitsu.io/users/ThatLilChestnut) | [Yes](https://github.com/charlesmadere/that-lil-hummingbird) (Unlicensed) | Android | No
 [Anizen](https://forums.hummingbird.me/t/ios-anizen/30040/43) | Stalled *(since 2016-10-07)* | [wraithseeker](https://kitsu.io/users/wraithseeker) | No | iOS | No
