@@ -8,7 +8,7 @@ Since [Kitsu](https://kitsu.io) no longer has a list of official applications, I
 Name | Status | Developer | Open source | Platform | Kitsu Support
 -----|--------|-----------|-------------|----------|--------------
 [Hachidori](https://kitsu.io/groups/hachidori) | Active | [Atelier Shiori](https://malupdaterosx.moe/hachidori) | [Yes](https://github.com/Atelier-Shiori/hachidori) (BSD) | Mac | Yes
-[Kitsu Scrobbler](leonekmi.twittolabel.fr/anilist-scrobble/) | Active | [leonekmi](https://kitsu.io/users/leonekmi) | [Yes](https://github.com/leonekmi/anilist-scrobbler) (CC-BY-SA-4.0) | Chrome | Yes
+[Kitsu Scrobbler](https://leonekmi.twittolabel.fr/anilist-scrobble/) | Active | [leonekmi](https://kitsu.io/users/leonekmi) | [Yes](https://github.com/leonekmi/anilist-scrobbler) (CC-BY-SA-4.0) | Chrome | Yes
 [Shukofukurou](https://kitsu.io/groups/hachidori) | Active | [Atelier Shiori](https://malupdaterosx.moe/shukofukurou/) | [Yes](https://github.com/Atelier-Shiori/Shukofukurou) (BSD) | Mac | Yes
 [Taiga](https://kitsu.io/groups/taiga) | Active | [erengy](https://kitsu.io/users/erengy) | [Yes](https://github.com/erengy/taiga) (GPLv3) | Windows | Yes
 [Trackma](https://forums.hummingbird.me/t/linux-trackma/19212) | Active | [z411](https://kitsu.io/users/z411) | [Yes](https://github.com/z411/trackma) (GPLv3) | *nix | Yes
