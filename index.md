@@ -45,3 +45,4 @@ Name | Status | Developer | Open source | Platform | Kitsu Support
 -----|--------|-----------|-------------|----------|--------------
 [Kitsu Inactivity Pruner](https://github.com/wopian/kitsu-inactivity-pruner) | Active | [wopian](https://kltsu.io/users/wopian) | [Yes](https://github.com/wopian/kitsu-inactivity-pruner) (MIT) | *nix, Windows | Yes
 [Kitsu Plex Scrobbler](https://github.com/matthewdias/kitsu-plex-scrobbler) | Active | [matthewdias](https://kitsu.io/users/matthewdias) | [Yes](https://github.com/matthewdias/kitsu-plex-scrobbler) (MIT) | *nix, Windows | Yes
+[Nekomata](https://malupdaterosx.moe/nekomata)|Active|[MAL Updater OS X Group](https://malupdaterosx.moe/)|[Yes]( https://github.com/Atelier-Shiori/Nekomata)|Windows|Yes
