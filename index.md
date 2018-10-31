@@ -16,6 +16,7 @@ Name | Status | Developer | Open source | Platform | Kitsu Support
 [HAPU](https://forums.hummingbird.me/t/mac-hapu-scrobbler-app/56) | Stalled *(since 2015-05-09)* | [inket](https://kitsu.io/users/inket) | No | Mac | No
 [Hummingbird Updater/Scrobbler](https://forums.hummingbird.me/t/windows-hummingbird-updater-scrobbler-by-dennis/17333) | Stalled *(since 2015-04-28)* | [Dennis](https://kitsu.io/users/Dennis) | [Yes](https://github.com/tofuness/Hummingbird-Updater) (MIT) | Linux, Windows | No
 [Zenbu](https://forums.hummingbird.me/t/zenbu-development-log-deprecated/1583) | Stalled *(since 2014-08-01)* | [Ippytraxx](https://kitsu.io/users/Ippytraxx) | [Yes](https://bitbucket.org/Ippytraxx/zenbu/) (GPLV3) | Linux, Windows | No
+[anitrack](https://github.com/TSedlar/anitrack) | Active | [TSedlar](https://github.com/TSedlar) | [Yes](https://github.com/TSedlar/anitrack) (MIT) | Chrome, Firefox | Yes
 
 ### Mobile clients
 
